@@ -1,0 +1,38 @@
+Solar Parts Order Generated on 2020/04/09 09:43:55
+Project Name:            Sample Customer
+Lead Source:             Solarize Philly
+Estimated Delivery:      3/27/2019
+Address:                 Sample Address
+
+
+Modules:
+8   - LG335N1K-V5 BOB Neon2Black                        
+
+Enphase:
+8   - IQ7+ Micro-Inverter                               
+1   - AC Combiner w Envoy 80A 1PH                       
+1   - 20A Breaker for IQ Combiner                       
+11  - QCable Portrait 60/72                             
+4   - Female Seal Cap for Q Cable                       
+2   - Terminator Cap for Q Cable                        
+2   - Enphase Current Transformer                       
+
+Fuses and Disconnects:
+1   - 100A SQD Solar Disconnect                         
+
+IronRidge:
+6   - XR10 Black Rail 168”                              
+23  - Rail Bolt                                         
+25  - UFO Black                                         
+14  - Stopper Sleeve 40mm                               
+4   - IR Ground Lug                                     
+11  - Micro T-Bolt                                      
+
+Roof Tech Attachment:
+2   - RTMini Base (Box of 20)                           
+1   - RTMini Hex Bolt Box (Box of 100)                  
+2   - RTMini Screw (Box of 100)                         
+23  - IronRidge Slotted LFoot                           
+
+Misc:
+5   - SolaTrim (Box of 100’)                            

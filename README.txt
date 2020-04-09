@@ -1,5 +1,5 @@
 #solar-ordering-tool
-A tool for generating project specific material orders for residential solar projects.
+A tool for generating project specific material orders for residential solar projects. 
 
 ## Background:
 This tool simplifies and and standardizes the material ordering process for a residential solar-pv construction company. For each solar installation, a material order is generated and shipped to the construction site using a third party supplier. This tool generates the material order as well as a cost estimate that is based on the most recent pricing obtained form the supplier. The cost estimate can be compared against the actual order cost to quickly spot discrepancies between what was asked for and what is being supplied.
