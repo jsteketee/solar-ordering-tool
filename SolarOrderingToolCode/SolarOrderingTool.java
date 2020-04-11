@@ -365,7 +365,7 @@ public class SolarOrderingTool {
 					materialsToOrder.addPart(category, "LFoot", attachmentCount);
 				}
 				if (attachmentType.contains("curb")) {
-					category = "chem curb";
+					category = "curb attachment";
 					materialsToOrder.addPart(category, "curb kit", attachmentCount);
 					materialsToOrder.addPart(category, "standoff", attachmentCount);
 					materialsToOrder.addPart(category, "LFoot", attachmentCount);

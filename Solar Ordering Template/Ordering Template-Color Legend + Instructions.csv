@@ -6,4 +6,5 @@ Red Text,Smart Display
 ,Illegal Comma
 *,Don’t use commas anywhere
 *,Doesn’t take into account 60 cell vs 72 cell
-*,If you get a “part not found” you can fix that by adding the part to the parts table on the right. 
+*,If you get a “part not found” you can fix that by adding the part to the parts table on the right. Just copy the existing format and add a row. 
+*,"You can add new tables or comments, but don’t change the structure of any existing tables. "
