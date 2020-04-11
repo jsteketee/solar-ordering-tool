@@ -1,4 +1,4 @@
-#solar-ordering-tool
+# Solar Ordering Tool
 A tool for generating project specific material orders for residential solar projects. 
 
 ## Background:
