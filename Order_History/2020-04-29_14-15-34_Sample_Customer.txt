@@ -1,0 +1,62 @@
+Solar Parts Order Generated on 2020/04/29 14:15:34
+Project Name:            Sample Customer
+Lead Source:             Self Generated
+Estimated Delivery:      02/20/2020
+Address:                 Sample Address
+
+
+Modules:
+38  - LG335N1K-V5 BOB Neon2Black                        
+
+Enphase:
+38  - IQ7+ Micro-Inverter                               
+1   - AC Combiner w Envoy 80A 1PH                       
+3   - 20A Breaker for IQ Combiner                       
+1   - Enphase Cell Card                                 
+22  - QCable Portrait 60/72                             
+24  - QCable Landscape 60 Cell                          
+8   - Female Seal Cap for Q Cable                       
+3   - Terminator Cap for Q Cable                        
+2   - Enphase Current Transformer                       
+
+Fuses and Disconnects:
+1   - 60A SQD Solar Disconnect                          
+2   - 20A Fuse                                          
+2   - 60/30 Fuse Reducer                                
+
+IronRidge:
+22  - XR10 Black Rail 168”                              
+16  - Splice Bar XR10                                   
+84  - Rail Bolt                                         
+83  - UFO Black                                         
+29  - Stopper Sleeve 40mm                               
+8   - IR Ground Lug                                     
+39  - Micro T-Bolt                                      
+
+Roof Tech Attachment:
+5   - RTMini Base (Box of 20)                           
+1   - RTMini Hex Bolt Box (Box of 100)                  
+5   - RTMini Screw (Box of 100)                         
+84  - IronRidge Slotted LFoot                           
+
+EcoFoot5D:
+4   - Rock-It Clip                                      
+9   - EcoFoot5D Base                                    
+6   - EcoFoot Clamp Kit (two clamps per kit)            
+4   - Wind Deflector                                    
+6   - Ballast Tray                                      
+6   - Mid Support Kit                                   
+1   - IronRidge Ground Lug                              
+
+DDome R2:
+4   - Rock-It Clip                                      
+3   - Peak                                              
+6   - Base                                              
+9   - Roof Mat                                          
+4   - Spacer Pad                                        
+4   - XR Mid Clamp 40 - 44mm                            
+8   - End Clamp 39 - 41 mm                              
+4   - Ballast Porter 60 Cell                            
+6   - Corner Strut                                      
+2   - ILSCO Ground Lug                                  
+12  - Weeb Clips                                        
