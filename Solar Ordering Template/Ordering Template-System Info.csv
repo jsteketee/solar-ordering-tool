@@ -1,6 +1,6 @@
 Customer ,Sample Customer
-Estimated Delivery,3/27/2019
-Project Type,Solarize Philly
+Estimated Delivery,02/20/2020
+Project Type,Self Generated
 Address,Sample Address
 - ,-
 System Type ,Enphase w IQ Combiner
@@ -9,7 +9,7 @@ Panel Wattage,335
 Opti/Micro Type,IQ7+
 Central Inverter Type ,SE7600H-US
 SE Inverter Count,1
-Cell Kit Count,0
-Disco Rating ,100
-Fuse Rating ,35
+Cell Kit Count,1
+Disco Rating ,60
+Fuse Rating ,20
 Cons. Monitoring ,Yes

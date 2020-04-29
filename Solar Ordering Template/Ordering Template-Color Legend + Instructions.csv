@@ -8,3 +8,4 @@ Red Text,Smart Display
 *,Doesn’t take into account 60 cell vs 72 cell
 *,If you get a “part not found” you can fix that by adding the part to the parts table on the right. Just copy the existing format and add a row. 
 *,"You can add new tables or comments, but don’t change the structure of any existing tables. "
+*,Doesn’t always work for projects larger with more than 80A’s at point of interconnection. 
