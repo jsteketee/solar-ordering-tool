@@ -160,8 +160,8 @@ public class SolarOrderingTool {
 		fuseRating = Integer.parseInt(csvArray[a += 2]);
 		consMonitor = (csvArray[a += 2].toLowerCase().contains("yes"));
 		fuseAdapter = false;
-		if (discoRating >= 30 && fuseRating < 30) fuseAdapter = true; 
-		if (discoRating >= 60 && fuseRating < 60) fuseAdapter = true; 
+		if (discoRating >= 30 && fuseRating < 30) fuseAdapter = true;
+		if (discoRating >= 60 && fuseRating < 60) fuseAdapter = true;
 
 		if (verbose) {
 			System.out.println("\n\nSystem Info:\n");
@@ -326,11 +326,14 @@ public class SolarOrderingTool {
 					if(breakerCount > 4) System.out.print("\n*******\n\n Warning: IQ Combiner does not have capacity to land all 20A branch circuits. \n\n*******\n");
 				} if(systemType.contains("envoy")) {
 					materialsToOrder.addPart(category, "envoy", 1);
+					materialsToOrder.addPart("misc","envoy jbox",1);
 					if(breakerCount > 1) {
 						materialsToOrder.addPart(category, "aggregator", 1);
 						if (breakerCount > 3) System.out.print("\n*******\n\n Warning: Aggregator does not have capacity to land all 20A branch circuits. \n\n*******\n");
 					}
 				} if(systemType.contains("load center")) {
+					materialsToOrder.addPart(category, "envoy", 1);
+					materialsToOrder.addPart("misc","envoy jbox",1);
 					materialsToOrder.addPart("misc", "100A outdoor load center", 1);
 					materialsToOrder.addPart("misc", "load center breaker", breakerCount);
 					if (breakerCount > 5) System.out.print("\n*******\n\n Warning: Load center does not have capacity to land all 20A branch circuits. \n\n*******\n");

@@ -1,0 +1,56 @@
+Solar Parts Order Generated on 2020/04/30 13:43:01
+Project Name:            Sample Customer
+Lead Source:             Self Generated
+Estimated Delivery:      02/20/2020
+Address:                 Sample Address
+
+
+Modules:
+500 - LG335N1K-V5 BOB Neon2Black                        $137,350.00 ($274.70 each)
+
+Enphase:
+500 - IQ7+ Micro-Inverter                               $57,755.00  ($115.51 each)
+1   - IQ Envoy                                          $419.97     ($419.97 each)
+1   - Enphase Cell Card                                 $320.07     ($320.07 each)
+502 - QCable Portrait 60/72                             $6,084.24   ($12.12 each)
+2   - Female Seal Cap for Q Cable                       $5.66       ($2.83 each)
+39  - Terminator Cap for Q Cable                        $554.97     ($14.23 each)
+2   - Enphase Current Transformer                       $40.60      ($20.30 each)
+
+Fuses and Disconnects:
+1   - 60A SQD Solar Disconnect                          $126.36     ($126.36 each)
+2   - 20A Fuse                                          $9.50       ($4.75 each)
+2   - 60/30 Fuse Reducer                                $27.26      ($13.63 each)
+
+IronRidge:
+300 - XR10 Black Rail 168”                              $9,243.00   ($30.81 each)
+200 - Splice Bar XR10                                   $810.00     ($4.05 each)
+1200- Rail Bolt                                         $1,440.00   ($1.20 each)
+1380- UFO Black                                         $2,760.00   ($2.00 each)
+480 - Stopper Sleeve 40mm                               $153.60     ($0.32 each)
+130 - IR Ground Lug                                     $455.00     ($3.50 each)
+650 - Micro T-Bolt                                      $507.00     ($0.78 each)
+
+Roof Tech Attachment:
+60  - RTMini Base (Box of 20)                           $6,799.80   ($113.33 each)
+12  - RTMini Hex Bolt Box (Box of 100)                  $495.96     ($41.33 each)
+60  - RTMini Screw (Box of 100)                         $3,004.80   ($50.08 each)
+1200- IronRidge Slotted LFoot                           $1,920.00   ($1.60 each)
+
+Misc:
+1   - HOM512L100RB                                      $56.36      ($56.36 each)
+39  - HOM240 Breaker 2P20A                              $475.41     ($12.19 each)
+1   - PVC Outdoor Jbox 12x12x6                          $40.81      ($40.81 each)
+
+
+Modules                                                 $137,350.00 (ppw = $0.82)
+Enphase                                                 $65,180.51  (ppw = $0.39)
+Fuses and Disconnects                                   $163.12     (ppw = $0.00)
+IronRidge                                               $15,368.60  (ppw = $0.09)
+Roof Tech Attachment                                    $12,220.56  (ppw = $0.07)
+Misc                                                    $572.58     (ppw = $0.00)
+
+
+Total Cost: $230,855.37
+Total ppW:  $1.38
+
