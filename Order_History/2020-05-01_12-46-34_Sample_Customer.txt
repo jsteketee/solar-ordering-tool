@@ -1,4 +1,4 @@
-Solar Parts Order Generated on 2020/04/30 13:46:36
+Solar Parts Order Generated on 2020/05/01 12:46:34
 Project Name:            Sample Customer
 Lead Source:             Self Generated
 Estimated Delivery:      02/20/2020
