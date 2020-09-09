@@ -1,0 +1,42 @@
+Solar Parts Order Generated on 2020/09/09 09:42:57
+Project Name:            Sample Customer
+Lead Source:             Self Generated
+Estimated Delivery:      02/20/2020
+Address:                 Sample Address
+
+
+Modules:
+30  - LG335N1K-V5 BOB Neon2Black                        
+
+Enphase:
+30  - IQ7+ Micro-Inverter                               
+1   - IQ Envoy                                          
+1   - Aggregator 60A 1PH 3P                             
+1   - Enphase Cell Card                                 
+32  - QCable Portrait 60/72                             
+2   - Female Seal Cap for Q Cable                       
+3   - Terminator Cap for Q Cable                        
+2   - Enphase Current Transformer                       
+
+Fuses and Disconnects:
+1   - 60A SQD Solar Disconnect                          
+2   - 20A Fuse                                          
+2   - 60/30 Fuse Reducer                                
+
+IronRidge:
+18  - XR10 Black Rail 168”                              
+12  - Splice Bar XR10                                   
+72  - Rail Bolt                                         
+83  - UFO Black                                         
+29  - Stopper Sleeve 40mm                               
+8   - IR Ground Lug                                     
+39  - Micro T-Bolt                                      
+
+Roof Tech Attachment:
+4   - RTMini Base (Box of 20)                           
+1   - RTMini Hex Bolt Box (Box of 100)                  
+4   - RTMini Screw (Box of 100)                         
+72  - IronRidge Slotted LFoot                           
+
+Misc:
+1   - PVC Outdoor Jbox 12x12x6                          

@@ -7,7 +7,7 @@ This tool simplifies and and standardizes the material ordering process for a re
 ## Prerequisites:
 In order to use this tool you must have:
 - The latest version of Java Runtime Environment (JRE)
-- Numbers
+- Numbers (mac)
 
 ## How To Use:
 1. Open up the Numbers file "Solar Ordering Template.numbers" and enter all system info.
